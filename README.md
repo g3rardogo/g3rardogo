@@ -21,5 +21,8 @@
 
 <h3 align="left">🏆 Github stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g3rardogo&show_icons=true&locale=en" alt="g3rardogo" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=g3rardogo&show_icons=true&locale=en" alt="g3rardogo" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=g3rardogo&show_icons=true&locale=en&layout=compact" alt="g3rardogo" width="410"/>
+</p>
 
