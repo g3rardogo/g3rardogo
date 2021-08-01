@@ -22,9 +22,9 @@
 <h3 align="left">🏆 Github stats:</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=g3rardogo&show_icons=true&locale=en&layout=compact" alt="g3rardogo" width="410"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=g3rardogo&show_icons=true&locale=en&layout=compact" alt="g3rardogo" width="332"/>
 </p>
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g3rardogo&show_icons=true&locale=en" alt="g3rardogo"/>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g3rardogo&show_icons=true&locale=en" alt="g3rardogo" width="400"/>
 </p>
 
