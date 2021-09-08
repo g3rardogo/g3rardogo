@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **web development with React**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://gerardoramirez.netlify.app/](https://gerardoramirez.netlify.app/)
 
